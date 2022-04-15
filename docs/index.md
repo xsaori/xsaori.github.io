@@ -1,3 +1,8 @@
-# SAMPLE
+---
+title: SAMPE PAGE
+description: This is a SAMPLE.
+---
 
-sample
+## SAMPLE
+
+[sample sub page](./sample.md)
