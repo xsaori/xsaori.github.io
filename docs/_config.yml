@@ -2,8 +2,8 @@ repository: xsaori/xsaori.github.io
 theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
 
-title: WWW
-description: WWW
+title: Welcome to Tanaka Lab's Pages
+description: Computational Behavioral Neuroscience Lab
 
 github:
   is_project_page: false
