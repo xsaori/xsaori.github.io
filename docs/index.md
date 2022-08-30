@@ -9,6 +9,7 @@ description: Computational Behavioral Neuroscience Lab
 
 ## News
 - 2022.08.31 [論文がCell Reportsに掲載されました。](https://doi.org/10.1016/j.celrep.2022.111275)
+- 2022.08.31 [論文がCell Reportsに掲載されました。](https://doi.org/10.1016/j.celrep.2022.111275)
 - 2022.05.09 NAISTオープンキャンパスが5月14日に開催されました.
 - 2022.05.09 研究室ではメンバーを募集しています.
   大学院生として研究指導を受けたい・進学について相談したい, 学振の特別研究員として研究したい, などなど, ページ下部の問い合わせフォームからご連絡ください.
