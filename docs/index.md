@@ -9,6 +9,7 @@ description: Computational Behavioral Neuroscience Lab
 
 ## News
 - 2022.10.10 [「脳科学の達人2022」（＠Neuro2022）](https://www.youtube.com/watch?v=HFonDMjcGp4)に登壇しました。
+- 2022.10.10 [Open symposium at SfN Neuroscience 2022](https://brainminds-beyond.jp/satelliteopen@sfn_2022_ibi_data_WG.html)で、日本における脳画像データベースの現状と利活用について紹介します（2022年11月14日）。
 - 2022.10.10 [生理研研究会「第4回 力学系の視点からの脳・神経回路の理解」](https://www.nips.ac.jp/nd/meetings/2022/04/20221202.html)に登壇します（2022年12月2日）。
 - 2022.10.10 オンライン講義[「計算生命科学の基礎９」](http://www.eccse.kobe-u.ac.jp/distance_learning/life_science9/)に登壇します。学生、大学院生、社会人を対象とした15回の講義の1回分を担当します（2023年1月11日）。
 - 2022.08.31 [論文がCell Reportsに掲載されました。](https://doi.org/10.1016/j.celrep.2022.111275)
