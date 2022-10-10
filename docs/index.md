@@ -17,7 +17,7 @@ description: Computational Behavioral Neuroscience Lab
 
 ## Members
 - 特任准教授
-  - 田中　沙織 (Saori C. TANAKA)
+  - 田中　沙織 (Saori C. TANAKA) [Researchmap](https://researchmap.jp/xsaori) [Google Scholar](https://scholar.google.co.jp/citations?user=Kysh6goAAAAJ&hl=ja)
 - 学生
   - 修士1回
     - 佐野　海士 (Kaito SANO)
