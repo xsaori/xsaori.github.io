@@ -31,10 +31,12 @@ description: Computational Behavioral Neuroscience Lab
 
 ## To join our lab
 - 大学院生として
+  
   - 研究室見学はいつでも受け付けています。[「いつでも見学会」](https://isw3.naist.jp/Admission/CampusTour-ja.html)に詳しい情報があります。当研究室はオンライン・オンサイトどちらでも対応可能です。
   - 進路を決める前に研究内容をもっと知りたい場合は、[「インターンシップ」](https://isw3.naist.jp/Admission/InternshipDomestic-ja.html)も受け付けています。時期や期間、内容については応相談です。強化学習やヒトの意思決定モデルに関するレクチャーとプログラミングや行動実験の実習から構成される1~2週間のプログラムを準備しています。
 
 - 研究者として
+  
   - ポスドク（博士研究員）を募集する際はこちらでも告知します。また日本学術振興機構の特別研究員(PD) の受け入れをしています。まずはご相談ください。
 
 ## Research procedures
