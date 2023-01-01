@@ -24,6 +24,7 @@ description: Computational Behavioral Neuroscience Lab
 - 学生
   - 修士1回
     - 佐野　海士 (Kaito SANO)
+    - Gao Yulun
 - 共同研究者
   - 酒井　雄希 (Yuki SAKAI, ATR)
   - 川島　一朔 (Issaku KAWASHIMA, ATR)
