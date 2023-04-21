@@ -8,7 +8,9 @@ description: Computational Behavioral Neuroscience Lab
 人間は環境とインタラクションしながら意思決定や学習を行う主体であり, その行動には主体の特性に加え環境側の特性も反映されます. 本研究室では, 人間をそれを取り巻く環境も含めて理解するために, 脳の情報処理機構に基づく行動モデルの構築と, 実験的手法やデータ駆動的手法による検証によって, 人間行動の原理探求を行うとともに, 社会応用に関する教育研究を行います.
 
 ## News
-- 2023.02.25 [2023年2月25日（土）にオープンキャンパスが開催されます.](http://www.naist.jp/admission/opencampus_ps/202302/) 研究室での展示や説明会を行います。[説明会はオンラインでも参加可能です。](https://www.naist.jp/opencampus_ps/oc202302/)
+- 2023.05.12 [2023年5月13日（土）にオープンキャンパスが開催されます.](http://www.naist.jp/admission/opencampus_ps/202305/) 研究室での展示や説明会を行います。説明会はオンラインでも参加可能です。詳細情報は随時大学のwebサイトで確認ください。
+- 2023.04.20 2名のM1が研究室に配属になりました。
+- 2023.02.25 2023年2月25日（土）にオープンキャンパスが開催されました.
 - 2023.02.18 [論文がScientific Reportsに掲載されました。](https://doi.org/10.1038/s41598-023-29854-9)
 - 2023.01.28 2023年3月6日（月）〜10日（金）の日程でインターンシップを開催します.当研究室への進学を検討している人が対象です.
 - 2023.01.28 新しいメンバーとして荻島特任助教が加わりました.
@@ -26,24 +28,30 @@ description: Computational Behavioral Neuroscience Lab
 ## Members
 - 特任准教授
   - 田中　沙織 (Saori C. TANAKA) [Researchmap](https://researchmap.jp/xsaori) [Google Scholar](https://scholar.google.co.jp/citations?user=Kysh6goAAAAJ&hl=ja)
+
 - 特任助教
   - 荻島 大凱 (Hiroyoshi OGISHIMA)
-- 学生
-  - 修士1回
-    - 佐野　海士 (Kaito SANO)
-    - Gao Yulun
-  - インターン生
-    - Erik HAINZLMEIER (Technical University of Munich)
-- 共同研究者
+
+- 委託教員
   - 酒井　雄希 (Yuki SAKAI, ATR)
   - 川島　一朔 (Issaku KAWASHIMA, ATR)
+
+- 学生
+  - 修士2回
+    - 佐野　海士 (Kaito SANO)
+    - Gao Yulun
+  - 修士１回
+    - 小池 教　（Minori KOIKE）
+    - 中川 綾子 (Ayako NAKAGAWA)
+  - インターン生
+    - Erik HAINZLMEIER (Technical University of Munich)
 
 ## To join our lab
 - 大学院生として
   
   - 研究室見学はいつでも受け付けています。[「いつでも見学会」](https://isw3.naist.jp/Admission/CampusTour-ja.html)に詳しい情報があります。当研究室はオンライン・オンサイトどちらでも対応可能です。
   - 研究内容をもっと知りたい場合は、[「インターンシップ」](https://isw3.naist.jp/Admission/InternshipDomestic-ja.html)も受け付けています。当研究室への進学を検討している人が対象です。時期や期間、内容については応相談です。強化学習やヒトの意思決定モデルに関するレクチャーとプログラミングや行動実験の実習から構成される1~2週間のプログラムを準備しています。
-    - 次回のインターンシップは2023年3月6日（月）〜10日（金）の日程で開催します。午前にレクチャーを受け、午後に実習を行う形式です。実習の内容は、人の意思決定の数理モデルを用いたシミュレーションや、実際に行動課題を実施していただき、そのデータ解析などを予定しています。詳しい内容を知りたい場合は、[問い合わせフォーム](https://forms.gle/UuJZVTnRHVPeLAWB7)から問い合わせください。
+    - 次回のインターンシップは2023年8月に開催する予定です。午前にレクチャーを受け、午後に実習を行う形式です。実習の内容は、人の意思決定の数理モデルを用いたシミュレーションや、実際に行動課題を実施していただき、そのデータ解析などを予定しています。詳しい内容を知りたい場合は、[問い合わせフォーム](https://forms.gle/UuJZVTnRHVPeLAWB7)から問い合わせください。
 
 - 研究者として
   
