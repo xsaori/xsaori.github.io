@@ -20,38 +20,37 @@ With advances in data science, however, I became interested in fusing hypothesis
 In parallel with my research activities, I have actively contributed to developing the research field as a program committee member of various academic societies. As a representative of our society, I am also a member of the Future Plan Committee of the Japanese Association of Brain Science Societies, which consists of 19 basic and clinical brain science-related societies in Japan, and I have made proposals to the government, the public, and academic societies on future plans for brain science research. Specifically, I proposed the application of artificial intelligence technology and databases as essential areas of neuroscience in Japan's science policy.
 
 ## Biography
-Professor (tenure-track), 2025.4 –
+Professor (tenure-track), 2025.4 –  
 Division of Information Science, Nara Institute of Science and Technology, Japan
 
-Associate Professor (tenure-track), 2022.4 – 2025.3
+Associate Professor (tenure-track), 2022.4 – 2025.3  
 Division of Information Science, Nara Institute of Science and Technology, Japan
 
-Department Head, 2015.9 –
+Department Head, 2015.9 –  
 Department of Neural Computation for Decision-making (NCD), ATR Brain Information Communication Research Lab. Group
 
-Senior Researcher, 2015.4 – 2015.9
-Researcher, 2014.1 – 2015.3
+Senior Researcher, 2015.4 – 2015.9  
+Researcher, 2014.1 – 2015.3  
 Department of Cognitive Neuroscience (DCN), ATR Brain Information Communication Research Lab. Group, Japan
 
-Associate Professor, 2012 – 2013
-Associate Professor (project appointed), 2009 – 2012
+Associate Professor, 2012 – 2013  
+Associate Professor (project appointed), 2009 – 2012  
 Institute of Social and Economic Research, Osaka University, Japan
 
-Researcher, 2007 – 2008
+Researcher, 2007 – 2008  
 Department of Computational Biology, ATR Brain Information Communication Research Lab. Group
 
-Postdoc fellow, 2006 – 2007
-Human Reward Learning Laboratory (John O’Doherty lab)
-Division of Humanities and Social Sciences
-California Institute of Technology
+Postdoc fellow, 2006 – 2007  
+Human Reward Learning Laboratory (John O’Doherty lab)  
+Division of Humanities and Social Sciences, California Institute of Technology
 
-Ph. D. Candidate, 2003 – 2006
+Ph. D. Candidate, 2003 – 2006  
 Graduate School of Information Science, Nara Institute of Science and Technology, Japan
 
-Master of Science, 2001 – 2003
+Master of Science, 2001 – 2003  
 Graduate School of Information Science, Nara Institute of Science and Technology, Japan
 
-Bachelor of Science, 1997 – 2001
+Bachelor of Science, 1997 – 2001  
 Department of Physics, Faculty of Science, Osaka University, Japan
 
 ## Publications
