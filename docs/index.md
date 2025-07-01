@@ -1,5 +1,5 @@
 ---
-layout: default
+Title: Saori Tanaka's page
 ---
 
 ## Dr. Saori C Tanaka  
