@@ -5,7 +5,6 @@ description:
 
 ## Dr. Saori C Tanaka  
 <img src="./images/SaoriTANAKA.jpg" alt="Saori C Tanaka" width="180"><br>
-Professor, Computational Neuroscience Lab, NAIST
 
 [**Google Scholar**](https://scholar.google.com/citations?user=Kysh6goAAAAJ&hl)
 
