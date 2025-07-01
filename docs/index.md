@@ -1,5 +1,5 @@
 ---
-Title: Saori Tanaka's page
+title: Welcome to Saori Tanaka's Pages
 ---
 
 ## Dr. Saori C Tanaka  
