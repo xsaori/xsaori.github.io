@@ -1,9 +1,10 @@
 repository: xsaori/xsaori.github.io
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+#theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
 
-title: Welcome to Tanaka Lab's Pages
-description: Computational Behavioral Neuroscience Lab
+title: Welcome to Saori Tanaka's Pages
+description:  
 
-github:
-  is_project_page: false
+#github:
+#  is_project_page: false
