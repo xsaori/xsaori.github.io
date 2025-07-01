@@ -1,6 +1,6 @@
 ---
 title: Saori C Tanaka
-description:  
+description: Computational Neuroscience 
 ---
 
 ## Dr. Saori C Tanaka  
