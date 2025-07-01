@@ -1,8 +1,10 @@
 ---
 title: Saori C Tanaka
+description:  
 ---
 
 [**Google Scholar**](https://scholar.google.com/citations?user=Kysh6goAAAAJ&hl)
+
 [**ORCID**](https://orcid.org/0000-0002-7001-5051)
 
 ## Affiliations
@@ -15,7 +17,10 @@ With advances in data science, however, I became interested in fusing hypothesis
 In parallel with my research activities, I have actively contributed to developing the research field as a program committee member of various academic societies. As a representative of our society, I am also a member of the Future Plan Committee of the Japanese Association of Brain Science Societies, which consists of 19 basic and clinical brain science-related societies in Japan, and I have made proposals to the government, the public, and academic societies on future plans for brain science research. Specifically, I proposed the application of artificial intelligence technology and databases as essential areas of neuroscience in Japan's science policy.
 
 ## Biography
-Associate Professor (tenure-track), 2022.4 –
+Professor (tenure-track), 2025.4 –
+Division of Information Science, Nara Institute of Science and Technology, Japan
+
+Associate Professor (tenure-track), 2022.4 – 2025.3
 Division of Information Science, Nara Institute of Science and Technology, Japan
 
 Department Head, 2015.9 –
