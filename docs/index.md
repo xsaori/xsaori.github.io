@@ -3,6 +3,10 @@ title: Saori C Tanaka
 description:  
 ---
 
+## Dr. Saori C Tanaka  
+<img src="./images/SaoriTANAKA.jpg" alt="Saori C Tanaka" width="180"><br>
+Professor, Computational Neuroscience Lab, NAIST
+
 [**Google Scholar**](https://scholar.google.com/citations?user=Kysh6goAAAAJ&hl)
 
 [**ORCID**](https://orcid.org/0000-0002-7001-5051)
