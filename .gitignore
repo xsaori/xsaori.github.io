@@ -1,3 +1,4 @@
 .env
 .jekyll-metadata
 .out/**
+.DS_Store
