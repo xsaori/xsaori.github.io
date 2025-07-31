@@ -40,7 +40,6 @@ Please check this page regularly for the latest updates regarding the tutorial.
 
 This session will cover techniques for extracting population-level brain features from large-scale MRI datasets, including preprocessing, dimensionality reduction, and population inference using machine learning.
 
-- Contents (tentative)
 1. Introduction to Large-Scale Human MRI Datasets  
 2. Dataset Overview  
 3. Preprocessing Pipeline  
@@ -52,7 +51,6 @@ This session will cover techniques for extracting population-level brain feature
 
 This session will explore methods for analyzing human brain dynamics by integrating multiple neuroimaging modalities (e.g., fMRI, MEG) using advanced machine learning techniques. More specifically, the MEG/EEG current source imaging method using the Bayesian learning will be introduced.
 
-- Contents (tentative)
 1. Intoduction to MEG/EEG current source imaging
 2. Foward modeling
 3. Inverse modeling
@@ -65,7 +63,6 @@ This session will explore methods for analyzing human brain dynamics by integrat
 This session will introduce the neural encoding model as a method for identifying alignment between the latent representations of Generative AI and human brain activity.
 
 1. Introduction to modeling brain data with Generative AI
-
 2. Hands‑on session: modeling neural data while watching visual images
 
 ---
