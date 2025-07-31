@@ -62,7 +62,11 @@ This session will explore methods for analyzing human brain dynamics by integrat
 ### 3-3. Modeling Human Brain Activity with Generative AI  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
 
-This session will demonstrate how generative AI models—such as diffusion models and large language models—can be used to decode and simulate brain activity from neuroimaging data.
+This session will introduce the neural encoding model as a method for identifying alignment between the latent representations of Generative AI and human brain activity.
+
+1. Introduction to modeling brain data with Generative AI
+
+2. Hands‑on session: modeling neural data while watching visual images
 
 ---
 
@@ -97,7 +101,11 @@ Dr. Okito Yamashita is a head of the department of the computational brain imagi
 
 
 ### Yu Takagi (Nagoya Institute of Technology)  
-_TBA_
 
+[Website](https://yu-takagi.github.io/)
+
+Dr. Yu Takagi is an Associate Professor at Nagoya Institute of Technology. His research interests lie at the intersection of Artificial Intelligence and Neuroscience. Recently, he has combined generative AI with neuroscience data to explore the alignment between artificial and biological representations, employing encoding–decoding frameworks alongside newer methods that build on and extend these models.
+
+---
 
 [ICONIP2025 Official Website](https://iconip2025.org)
