@@ -40,11 +40,18 @@ Please check this page regularly for the latest updates regarding the tutorial.
 
 This session will cover techniques for extracting population-level brain features from large-scale MRI datasets, including preprocessing, dimensionality reduction, and population inference using machine learning.
 
-### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning  
+- Contents (tentative)
+1. Introduction to Large-Scale Human MRI Datasets  
+2. Hands-on: Dataset Overview  
+3. Hands-on: Preprocessing Pipeline  
+4. Hands-on: Statistical Analysis and Visualization
+
+### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
 
 This session will explore methods for analyzing human brain dynamics by integrating multiple neuroimaging modalities (e.g., fMRI, MEG) using advanced machine learning techniques. More specifically, the MEG/EEG current source imaging method using the Bayesian learning will be introduced.
 
+- Contents (tentative)
 1. Intoduction to MEG/EEG current source imaging
 2. Foward modeling
 3. Inverse modeling
@@ -74,7 +81,7 @@ No prior experience with neuroimaging analysis is required. Sample brain data wi
 
 Dr. Saori Tanaka is a professor of Division of Information Science, Nara Institute of Science and Technology and a department head of ATR Brain Information Communication Research Lab. Group.
 <details>
-**<summary>Click for detailsく</summary>**
+<summary>Click for detailsく</summary>
 
 Dr. Saori Tanaka began her research career in 2001 as a graduate student in computational neuroscience at the Nara Institute of Science and Technology (NAIST). Her early work contributed foundational computational models of human decision-making, particularly in the area of temporal discounting. Her 2004 publication in Nature Neuroscience on this topic has been cited over 1,000 times and has had a significant impact on the development of the field. In recognition of this achievement, she received the Best Paper Award, Best Research Award, and Encouragement Award from the Japan Neural Networks Society in 2005.
 
