@@ -43,7 +43,13 @@ This session will cover techniques for extracting population-level brain feature
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning  
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
 
-This session will explore methods for analyzing human brain dynamics by integrating multiple neuroimaging modalities (e.g., fMRI, MEG) using advanced machine learning techniques.
+This session will explore methods for analyzing human brain dynamics by integrating multiple neuroimaging modalities (e.g., fMRI, MEG) using advanced machine learning techniques. More specifically, the MEG/EEG current source imaging method using the Bayesian learning will be introduced.
+
+1. Intoduction to MEG/EEG current source imaging
+2. Foward modeling
+3. Inverse modeling
+4. Applications
+5. Practice
 
 ### 3-3. Modeling Human Brain Activity with Generative AI  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
@@ -66,19 +72,21 @@ No prior experience with neuroimaging analysis is required. Sample brain data wi
 
 [Website](https://xsaori.github.io/)
 
-Professor, Division of Information Science, Nara Institute of Science and Technology, Japan
-
-Department head, ATR Brain Information Communication Research Lab. Group, Japan
-
+Dr. Saori Tanaka is a professor of Division of Information Science, Nara Institute of Science and Technology and a department head of ATR Brain Information Communication Research Lab. Group.
 <details>
 <summary>**Click for detailsく**</summary>
 
-I began my research as a graduate student in computational neuroscience at the Nara Institute of Science and Technology (NAIST) in 2001. My early research established some of the first foundational computational models of decision-making, in particular my work on temporal discounting (Nature Neuroscience, 2004) has been cited >1000 times. and has had substantial impact on the development of the field. I received the Best Paper Award, Best Research Award, and Encouragement Award from the Japan Neural Networks Society in 2005 for this achievement. After completing graduate school, I continued my research on human decision-making and received the Nakayama Award for Encouragement from the Nakayama Science Foundation in 2008 for the theme of “Science of Emotion”. With advances in data science, however, I became interested in fusing hypothesis-driven with data- driven approaches. Hence more recently, I have been involved in national flagship neuroscience projects funded by MEXT and AMED by leading in building databases to make MRI data from thousands of patients with human diseases publicly available (Tanaka et al., 2022, Scientific Data). Compared to other countries, Japan lags behind in data sharing, and there is an urgent need to improve policies and systems, and to secure human resources. I am now recognised as a leader of open science in the field of brain imaging in Japan, thanks to my expertise and skills in computational neuroscience, as well as the networks I have built with overseas researchers through invitations to several meetings of the International Brain Initiative (IBI). In parallel with my research activities, I have actively contributed to developing the research field as a program committee member of various academic societies. As a representative of our society, I am also a member of the Future Plan Committee of the Japanese Association of Brain Science Societies, which consists of 19 basic and clinical brain science-related societies in Japan, and I have made proposals to the government, the public, and academic societies on future plans for brain science research. Specifically, I proposed the application of artificial intelligence technology and databases as essential areas of neuroscience in Japan’s science policy.
+Dr. Saori Tanaka began her research career in 2001 as a graduate student in computational neuroscience at the Nara Institute of Science and Technology (NAIST). Her early work contributed foundational computational models of human decision-making, particularly in the area of temporal discounting. Her 2004 publication in Nature Neuroscience on this topic has been cited over 1,000 times and has had a significant impact on the development of the field. In recognition of this achievement, she received the Best Paper Award, Best Research Award, and Encouragement Award from the Japan Neural Networks Society in 2005.
 
+As data science rapidly advanced, Dr. Tanaka became increasingly interested in integrating hypothesis-driven and data-driven approaches. In recent years, she has played a leading role in several national neuroscience flagship projects funded by MEXT and AMED. In particular, she has spearheaded the construction of open-access MRI data repositories comprising thousands of patients with brain disorders (Tanaka et al., 2022, Scientific Data). Recognizing the need for improved infrastructure and policy, she has actively advocated for enhanced data-sharing practices in Japan.
 </details>
 
 ### Okito Yamashita (ATR / RIKEN AIP)  
-_TBA_
+
+[Website](https://bicr.atr.jp/~oyamashi/?lang=en)
+
+Dr. Okito Yamashita is a head of the department of the computational brain imaging in ATR. He also holds a concurrent position (team leader) at the computational brain dynamics team in RIKEN-AIP. His reaserch interests are brain dynamics and its relationship to brain function using combinations of the data-driven statistical modeling and biophysical modeling. He has published more than 50 papers in the field of human neuroimaging.
+
 
 ### Yu Takagi (Nagoya Institute of Technology)  
 _TBA_
