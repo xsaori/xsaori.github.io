@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICONIP2025 Tutorial 3: AI for Human Neuroscience Research
+title: ICONIP2025 Tutorial 3
 ---
 
 # AI for Human Neuroscience Research: Generative AI Modeling and Large-Scale Analysis
