@@ -74,7 +74,7 @@ No prior experience with neuroimaging analysis is required. Sample brain data wi
 
 Dr. Saori Tanaka is a professor of Division of Information Science, Nara Institute of Science and Technology and a department head of ATR Brain Information Communication Research Lab. Group.
 <details>
-<summary>**Click for detailsく**</summary>
+**<summary>Click for detailsく</summary>**
 
 Dr. Saori Tanaka began her research career in 2001 as a graduate student in computational neuroscience at the Nara Institute of Science and Technology (NAIST). Her early work contributed foundational computational models of human decision-making, particularly in the area of temporal discounting. Her 2004 publication in Nature Neuroscience on this topic has been cited over 1,000 times and has had a significant impact on the development of the field. In recognition of this achievement, she received the Best Paper Award, Best Research Award, and Encouragement Award from the Japan Neural Networks Society in 2005.
 
