@@ -42,9 +42,10 @@ This session will cover techniques for extracting population-level brain feature
 
 - Contents (tentative)
 1. Introduction to Large-Scale Human MRI Datasets  
-2. Hands-on: Dataset Overview  
-3. Hands-on: Preprocessing Pipeline  
-4. Hands-on: Statistical Analysis and Visualization
+2. Dataset Overview  
+3. Preprocessing Pipeline  
+4. Statistical Analysis and Visualization
+5. Hands-on
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
@@ -56,7 +57,7 @@ This session will explore methods for analyzing human brain dynamics by integrat
 2. Foward modeling
 3. Inverse modeling
 4. Applications
-5. Practice
+5. Hands-on
 
 ### 3-3. Modeling Human Brain Activity with Generative AI  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
