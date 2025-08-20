@@ -19,7 +19,7 @@ With advances in data science, however, I became interested in fusing hypothesis
 In parallel with my research activities, I have actively contributed to developing the research field as a program committee member of various academic societies. As a representative of our society, I am also a member of the Future Plan Committee of the Japanese Association of Brain Science Societies, which consists of 19 basic and clinical brain science-related societies in Japan, and I have made proposals to the government, the public, and academic societies on future plans for brain science research. Specifically, I proposed the application of artificial intelligence technology and databases as essential areas of neuroscience in Japan's science policy.
 
 ## Biography
-Professor (tenure-track), 2025.4 –  
+Professor, 2025.4 –  
 Division of Information Science, Nara Institute of Science and Technology, Japan
 
 Associate Professor (tenure-track), 2022.4 – 2025.3  
@@ -53,11 +53,15 @@ Bachelor of Science, 1997 – 2001
 Department of Physics, Faculty of Science, Osaka University, Japan
 
 ## Publications
-Takahara Y, Kashiwagi Y, Tokuda T, Yoshimoto J, Sakai Y, Yamashita A, Yoshioka T, Takahashi H, Mizuta H, Kasai K, Kunimitsu A, Okada N, Itai E, Shinzato H, Yokoyama S, Masuda Y, Mitsuyama Y, Okada G, Okamoto Y, Itahashi T, Ohta H, Hashimoto RI, Harada K, Yamagata H, Matsubara T, Matsuo K, Tanaka SC, Imamizu H, Ogawa K, Momosaki S, Kawato M, Yamashita O. Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets. Neural Netw. 187, 107335, 2025.
+Haitani T, Sakai Y & Tanaka SC. Effects of measurement errors on relationships between resting-state functional connectivity and psychological phenotypes. Sci Rep 15, 30316, 2025
 
-Shinsuke Koike, Saori C Tanaka, Takuya Hayashi Beyond case-control study in neuroimaging for psychiatric disorders: Harmonizing and utilizing the brain images from multiple sites. Neuroscience and biobehavioral reviews 171, 106063, 2025
+Yamashita O, Yamashita A, Takahara Y, Sakai Y, Okamoto Y, Okada G, Takamura M, Nakamura M, Itahashi T, Hanakawa T, Togo H, Yoshihara Y, Murai T, Okada T, Narumoto J, Takahashi H, Takagishi H, Hosomi K, Kasai K, Okada N, Abe O, Imamizu H, Hayashi T, Koike S, Tanaka SC, Kawato M. Computational mechanisms of neuroimaging biomarkers uncovered by multicenter resting-state fMRI connectivity variation profile. Mol Psychiatry. 2025
 
-Tanaka SC et al. Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets. Neural networks 187, 107335, 2025
+Koike S, Tanaka SC, Hayashi T. Beyond case-control study in neuroimaging for psychiatric disorders: Harmonizing and utilizing the brain images from multiple sites. Neurosci Biobehav Rev. 2025 
+
+Takahara Y, Kashiwagi Y, Tokuda T, Yoshimoto J, Sakai Y, Yamashita A, Yoshioka T, Takahashi H, Mizuta H, Kasai K, Kunimitsu A, Okada N, Itai E, Shinzato H, Yokoyama S, Masuda Y, Mitsuyama Y, Okada G, Okamoto Y, Itahashi T, Ohta H, Hashimoto RI, Harada K, Yamagata H, Matsubara T, Matsuo K, Tanaka SC, Imamizu H, Ogawa K, Momosaki S, Kawato M, Yamashita O. Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets. Neural Netw. 187, 107335, 2025
+
+Shinsuke Koike, Saori C Tanaka, Takuya Hayashi. Beyond case-control study in neuroimaging for psychiatric disorders: Harmonizing and utilizing the brain images from multiple sites. Neuroscience and biobehavioral reviews 171, 106063, 2025
 
 Itahashi T, Yamashita A, Takahara Y, Yahata N, Aoki YY, Fujino J, Yoshihara Y, Nakamura M, Aoki R, Okimura T, Ohta H, Sakai Y, Takamura M, Ichikawa N, Okada G, Okada N, Kasai K, Tanaka SC, Imamizu H, Kato N, Okamoto Y, Takahashi H, Kawato M, Yamashita O, Hashimoto RI. Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism, Molecular Psychiatry, 30(4), 1466–1478, 2025.
 
