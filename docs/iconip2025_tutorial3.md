@@ -7,7 +7,7 @@ title: ICONIP2025 Tutorial 3
 
 **Date:** November 20, 2025  
 **Time:** 10:00–13:00  
-**Location:** Room B250
+**Location:** Meeting Room 1
 
 ---
 
