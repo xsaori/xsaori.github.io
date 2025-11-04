@@ -34,8 +34,8 @@ This tutorial introduces recent advances in human neuroscience empowered by arti
 Please check this page regularly for the latest updates regarding the tutorial.
 
 - **August 1, 2025** — Tutorial page released
-- **November 20, 2025** - Information for Zoom participants 
-- **November 20, 2025** - Materials for hands-on session 3-1
+- **November 4, 2025** - Information for Zoom participants 
+- **November 4, 2025** - Materials for hands-on session 3-1
 
 ---
 
