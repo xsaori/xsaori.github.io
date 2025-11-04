@@ -7,7 +7,11 @@ title: ICONIP2025 Tutorial 3
 
 **Date:** November 20, 2025  
 **Time:** 10:00–13:00  
-**Location:** Meeting Room 1
+**Location:** Seminar room C209 (Main campus Level C) [Map](https://iconip2025.apnns.org/venue/#:~:text=campus%20Level%20C)
+
+---
+
+**Note: This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
 
 ---
 
@@ -30,6 +34,8 @@ This tutorial introduces recent advances in human neuroscience empowered by arti
 Please check this page regularly for the latest updates regarding the tutorial.
 
 - **August 1, 2025** — Tutorial page released
+- **November 20, 2025** - Information for Zoom participants 
+- **November 20, 2025** - Materials for hands-on session 3-1
 
 ---
 
@@ -45,6 +51,10 @@ This session will cover techniques for extracting population-level brain feature
 3. Preprocessing Pipeline  
 4. Statistical Analysis and Visualization
 5. Hands-on
+
+#### Materials for hands-on session
+**Preparation** This hands-on session will be conducted using Google Colab on each participant's laptop. Participants must bring their own laptop confirmed to run Google Colab (no laptops will be provided to participants).
+
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
