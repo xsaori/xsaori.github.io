@@ -39,7 +39,7 @@ Please check this page regularly for the latest updates regarding the tutorial.
 
 ---
 
-## Preparation　**<IMPORTANT>**
+## Preparation　**【IMPORTANT】**
 
 This hands-on session will be conducted using Google Colab on each participant's laptop. Participants must bring their own laptop confirmed to run Google Colab. No laptops will be provided to participants.
 
