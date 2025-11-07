@@ -39,6 +39,12 @@ Please check this page regularly for the latest updates regarding the tutorial.
 
 ---
 
+## Preparation　**<IMPORTANT>**
+
+This hands-on session will be conducted using Google Colab on each participant's laptop. Participants must bring their own laptop confirmed to run Google Colab. No laptops will be provided to participants.
+
+---
+
 ## Description and Outline
 
 ### 3-1. Population Analysis of Large-Scale Human MRI Datasets  
@@ -51,9 +57,6 @@ This session will cover techniques for extracting population-level brain feature
 3. Preprocessing Pipeline  
 4. Statistical Analysis and Visualization
 5. Hands-on
-
-#### Materials for hands-on session
-**Preparation** This hands-on session will be conducted using Google Colab on each participant's laptop. Participants must bring their own laptop confirmed to run Google Colab (no laptops will be provided to participants).
 
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
