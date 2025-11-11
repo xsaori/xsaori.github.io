@@ -33,15 +33,15 @@ This tutorial introduces recent advances in human neuroscience empowered by arti
 
 Please check this page regularly for the latest updates regarding the tutorial.
 
-- **August 1, 2025** — Tutorial page released
+- **November 11, 2025** - Preparation for hands-on updated
+- **November 4, 2025** - Preparation for hands-on updated
 - **November 4, 2025** - Information for Zoom participants 
-- **November 4, 2025** - Materials for hands-on session 3-1
-
+- **August 1, 2025** — Tutorial page released
 ---
 
 ## Preparation　**【IMPORTANT】**
 
-This hands-on session will be conducted using Google Colab on each participant's laptop. Participants must bring their own laptop confirmed to run Google Colab. No laptops will be provided to participants.
+This hands-on session will be conducted using **Google Colab for 3-1 and 3-3** and **MATLAB for 3-2** on each participant’s laptop. Participants must bring their own laptop confirmed to run Google Colab and MATLAB. No laptops will be provided to participants. For participants who do not have MATLAB license, please use MATLAB online basic which is free cloud service provided by Mathwork Inc. (https://jp.mathworks.com/products/matlab-online.html).
 
 ---
 
