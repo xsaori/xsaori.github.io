@@ -37,6 +37,7 @@ Please check this page regularly for the latest updates regarding the tutorial.
 - **November 4, 2025** - Preparation for hands-on updated
 - **November 4, 2025** - Information for Zoom participants 
 - **August 1, 2025** — Tutorial page released
+
 ---
 
 ## Preparation　**【IMPORTANT】**
