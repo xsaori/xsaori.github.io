@@ -72,7 +72,7 @@ This session will explore methods for analyzing human brain dynamics by integrat
 5. Hands-on
 
 Hands-on Materials:
-https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html
+[https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
 ### 3-3. Modeling Human Brain Activity with Generative AI  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
