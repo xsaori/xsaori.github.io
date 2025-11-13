@@ -12,10 +12,11 @@ title: ICONIP2025 Tutorial 3
 ---
 
 **Note to participant:**
-**This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
 
-**Notice to participants: Please read this document and complete "Preparation" before the tutorial.**
-https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html
+- This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
+
+- Please read this document and complete "Preparation" before the tutorial.
+[https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
 ---
 
