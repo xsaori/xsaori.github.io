@@ -11,7 +11,11 @@ title: ICONIP2025 Tutorial 3
 
 ---
 
-**Note: This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
+**Note to participant:**
+**This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
+
+**Notice to participants: Please read this document and complete "Preparation" before the tutorial.**
+https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html
 
 ---
 
@@ -33,6 +37,7 @@ This tutorial introduces recent advances in human neuroscience empowered by arti
 
 Please check this page regularly for the latest updates regarding the tutorial.
 
+- **November 13, 2025** - Notice to participants updated
 - **November 11, 2025** - Preparation for hands-on updated
 - **November 4, 2025** - Preparation for hands-on updated
 - **November 4, 2025** - Information for Zoom participants 
@@ -59,6 +64,8 @@ This session will cover techniques for extracting population-level brain feature
 4. Statistical Analysis and Visualization
 5. Hands-on
 
+Hands-on Materials:
+(TBA)
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
@@ -71,6 +78,9 @@ This session will explore methods for analyzing human brain dynamics by integrat
 4. Applications
 5. Hands-on
 
+Hands-on Materials:
+https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html
+
 ### 3-3. Modeling Human Brain Activity with Generative AI  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
 
@@ -78,6 +88,9 @@ This session will introduce the neural encoding model as a method for identifyin
 
 1. Introduction to modeling brain data with Generative AI
 2. Hands‑on session: modeling neural data while watching visual images
+
+Hands-on Materials:
+(TBA)
 
 ---
 
@@ -119,4 +132,9 @@ Dr. Yu Takagi is an Associate Professor at Nagoya Institute of Technology. H
 
 ---
 
+## Contact 
+
+[Inquiry form](https://forms.gle/5KYfL9SSJBtBAwcEA)
+
+---
 [ICONIP2025 Official Website](https://iconip2025.org)
