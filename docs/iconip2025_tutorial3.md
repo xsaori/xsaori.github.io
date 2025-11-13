@@ -8,29 +8,21 @@ title: ICONIP2025 Tutorial 3
 **Date:** November 20, 2025  
 **Time:** 10:00–13:00  
 **Location:** Seminar room C209 (Main campus Level C) [Map](https://iconip2025.apnns.org/venue/#:~:text=campus%20Level%20C)
-
----
-
-**Note to participant:**
-
-- This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
-
-- Please read this document and complete "Preparation" before the tutorial.
-[https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
-
----
-
-## Abstract
-
+**Tutorial Organizers:**
+- Saori Tanaka (ATR / NAIST)  
+- Okito Yamashita (ATR / RIKEN AIP)  
+- Yu Takagi (Nagoya Institute of Technology)
+**Abstract:**
 This tutorial introduces recent advances in human neuroscience empowered by artificial intelligence, with a focus on generative modeling and large-scale brain data analysis. It consists of three integrated sessions, each led by a domain expert.
 
 ---
 
-## Tutorial Organizers
+## Note to participant:
 
-- **Saori Tanaka** (ATR / NAIST)  
-- **Okito Yamashita** (ATR / RIKEN AIP)  
-- **Yu Takagi** (Nagoya Institute of Technology)
+- **This tutorial allows pre-registered participants to join via Zoom. However, the tutorial cannot be conducted in exactly the same manner for Zoom participants and on-site participants. Support for exercises and responses to questions will be provided only to on-site participants.**
+
+- **Please read this document and complete "Preparation" before the tutorial.**
+[https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
 ---
 
