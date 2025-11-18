@@ -62,7 +62,12 @@ This session will cover techniques for extracting population-level brain feature
 5. Hands-on
 
 Hands-on Materials:  
-[https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link](https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link)
+Google Colab Notebook:  
+[https://colab.research.google.com/drive/1Zlj-Z1qPiLf3-2ieewwsFQ4a0sKjyv3A?usp=sharing](https://colab.research.google.com/drive/1Zlj-Z1qPiLf3-2ieewwsFQ4a0sKjyv3A?usp=sharing)  
+
+Notion:
+[https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link](https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link)  
+
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
