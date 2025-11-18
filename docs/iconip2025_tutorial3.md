@@ -62,10 +62,10 @@ This session will cover techniques for extracting population-level brain feature
 5. Hands-on
 
 Hands-on Materials:  
-Google Colab Notebook:  
+Google Colab Notebook  
 [https://colab.research.google.com/drive/1Zlj-Z1qPiLf3-2ieewwsFQ4a0sKjyv3A?usp=sharing](https://colab.research.google.com/drive/1Zlj-Z1qPiLf3-2ieewwsFQ4a0sKjyv3A?usp=sharing)  
 
-Notion:
+Notion  
 [https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link](https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link)  
 
 
