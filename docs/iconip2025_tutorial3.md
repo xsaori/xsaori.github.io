@@ -24,12 +24,15 @@ This tutorial introduces recent advances in human neuroscience empowered by arti
 - **Please read this document and complete "Preparation" before the tutorial.**
 [https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
+- **Please note that Session 3-3 also includes several required preparation steps. Please carefully review the instructions in the “Hands-on Materials” section for Session 3-3 and complete them in advance.**
+
 ---
 
 ## News & Updates
 
 Please check this page regularly for the latest updates regarding the tutorial.
 
+- **November 18, 2025** - Notice to participants and Hands-on materials for 3-1 and 3-3 updated
 - **November 13, 2025** - Notice to participants updated
 - **November 11, 2025** - Preparation for hands-on updated
 - **November 4, 2025** - Preparation for hands-on updated
@@ -58,7 +61,8 @@ This session will cover techniques for extracting population-level brain feature
 5. Hands-on
 
 Hands-on Materials:
-(TBA)
+
+[https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link](https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link)
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
 **Speaker:** Dr. Okito Yamashita (ATR / RIKEN AIP)
@@ -72,18 +76,32 @@ This session will explore methods for analyzing human brain dynamics by integrat
 5. Hands-on
 
 Hands-on Materials:
+
 [https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
-### 3-3. Modeling Human Brain Activity with Generative AI  
+### 3-3. Modeling Human Brain Activity with Deep Neural Networks  
 **Speaker:** Yu Takagi (Nagoya Institute of Technology)
 
-This session will introduce the neural encoding model as a method for identifying alignment between the latent representations of Generative AI and human brain activity.
+This session will introduce the neural encoding model as a method for identifying alignment between the latent representations of deep neural networks and human brain activity.
 
-1. Introduction to modeling brain data with Generative AI
+1. Introduction to modeling brain data with deep neural networks
 2. Hands‑on session: modeling neural data while watching visual images
 
 Hands-on Materials:
-(TBA)
+
+[https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing](https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing)
+
+Before participating in the tutorial, please complete the following consent form and select “Agree”. This step is required in order to access a Google Drive public folder called algonauts_2023_tutorial_data.
+Consent form:
+[https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link)
+
+Before running the tutorial code, you need to select this folder in Google Drive (algonauts_2023_tutorial_data) and choose “Add a shortcut to Drive.” This will create a shortcut (without copying or taking space) of the folder to a desired path in your Google Drive, from which you can read the content after mounting using drive.mount(). Please make sure that the following commands run without errors in Google Colab:
+from google.colab import drive
+drive.mount('/content/drive/', force_remount=True)
+data_dir = '/content/drive/MyDrive/algonauts_2023_tutorial_data'  # @param {type:"string”} # Please edit the `data_dir` variable below with the path on your Drive to the `algonauts_2023_tutorial_data` shortcut folder
+fmri_dir = os.path.join(data_dir, 'training_split', 'training_fmri’)
+lh_fmri = np.load(os.path.join(fmri_dir, 'lh_training_fmri.npy'))
+rh_fmri = np.load(os.path.join(fmri_dir, 'rh_training_fmri.npy'))
 
 ---
 
