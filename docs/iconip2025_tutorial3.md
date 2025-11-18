@@ -7,13 +7,11 @@ title: ICONIP2025 Tutorial 3
 
 **Date:** November 20, 2025  
 **Time:** 10:00–13:00  
-**Location:** Seminar room C209 (Main campus Level C) [Map](https://iconip2025.apnns.org/venue/#:~:text=campus%20Level%20C)
-
+**Location:** Seminar room C209 (Main campus Level C) [Map](https://iconip2025.apnns.org/venue/#:~:text=campus%20Level%20C)  
 **Tutorial Organizers:**
 - Saori Tanaka (ATR / NAIST)  
 - Okito Yamashita (ATR / RIKEN AIP)  
-- Yu Takagi (Nagoya Institute of Technology)
-  
+- Yu Takagi (Nagoya Institute of Technology)  
 **Abstract:**
 This tutorial introduces recent advances in human neuroscience empowered by artificial intelligence, with a focus on generative modeling and large-scale brain data analysis. It consists of three integrated sessions, each led by a domain expert.
 
@@ -62,7 +60,7 @@ This session will cover techniques for extracting population-level brain feature
 4. Statistical Analysis and Visualization
 5. Hands-on
 
-Hands-on Materials: 
+Hands-on Materials:  
 [https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link](https://www.notion.so/ICONIP2025-Tutorial-3-2a14e529b79180a28edfe575cfa6b185?source=copy_link)
 
 ### 3-2. Human Brain Dynamics via Multi-Modal Integration and Machine Learning 
@@ -76,7 +74,7 @@ This session will explore methods for analyzing human brain dynamics by integrat
 4. Applications
 5. Hands-on
 
-Hands-on Materials: 
+Hands-on Materials:  
 [https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html](https://vbmeg.atr.jp/docs/iconip2025/static/iconip2025.html)
 
 ### 3-3. Modeling Human Brain Activity with Deep Neural Networks  
@@ -87,20 +85,20 @@ This session will introduce the neural encoding model as a method for identifyin
 1. Introduction to modeling brain data with deep neural networks
 2. Hands‑on session: modeling neural data while watching visual images
 
-Hands-on Materials: 
-[https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing](https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing)
+Hands-on Materials:  
+[https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing](https://colab.research.google.com/drive/1JCp3bfKYnn-rezfMXO-gCDBShd5PhmBM?usp=sharing)  
 
-Before participating in the tutorial, please complete the following consent form and select “Agree”. This step is required in order to access a Google Drive public folder called algonauts_2023_tutorial_data.
+Before participating in the tutorial, please complete the following consent form and select “Agree”. This step is required in order to access a Google Drive public folder called algonauts_2023_tutorial_data.  
 Consent form:
-[https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link)
+[https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link)  
 
 Before running the tutorial code, you need to select this folder in Google Drive (algonauts_2023_tutorial_data) and choose “Add a shortcut to Drive.” This will create a shortcut (without copying or taking space) of the folder to a desired path in your Google Drive, from which you can read the content after mounting using drive.mount(). Please make sure that the following commands run without errors in Google Colab:
 from google.colab import drive
 drive.mount('/content/drive/', force_remount=True) 
-data_dir = '/content/drive/MyDrive/algonauts_2023_tutorial_data'  # @param {type:"string”} # Please edit the `data_dir` variable below with the path on your Drive to the `algonauts_2023_tutorial_data` shortcut folder 
-fmri_dir = os.path.join(data_dir, 'training_split', 'training_fmri’) 
-lh_fmri = np.load(os.path.join(fmri_dir, 'lh_training_fmri.npy')) 
-rh_fmri = np.load(os.path.join(fmri_dir, 'rh_training_fmri.npy')) 
+data_dir = '/content/drive/MyDrive/algonauts_2023_tutorial_data'  # @param {type:"string”} # Please edit the `data_dir` variable below with the path on your Drive to the `algonauts_2023_tutorial_data` shortcut folder  
+fmri_dir = os.path.join(data_dir, 'training_split', 'training_fmri’)  
+lh_fmri = np.load(os.path.join(fmri_dir, 'lh_training_fmri.npy'))  
+rh_fmri = np.load(os.path.join(fmri_dir, 'rh_training_fmri.npy'))  
 
 ---
 
