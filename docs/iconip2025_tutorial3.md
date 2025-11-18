@@ -12,6 +12,7 @@ title: ICONIP2025 Tutorial 3
 - Saori Tanaka (ATR / NAIST)  
 - Okito Yamashita (ATR / RIKEN AIP)  
 - Yu Takagi (Nagoya Institute of Technology)  
+
 **Abstract:**
 This tutorial introduces recent advances in human neuroscience empowered by artificial intelligence, with a focus on generative modeling and large-scale brain data analysis. It consists of three integrated sessions, each led by a domain expert.
 
@@ -92,9 +93,9 @@ Before participating in the tutorial, please complete the following consent form
 Consent form:
 [https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link)  
 
-Before running the tutorial code, you need to select this folder in Google Drive (algonauts_2023_tutorial_data) and choose “Add a shortcut to Drive.” This will create a shortcut (without copying or taking space) of the folder to a desired path in your Google Drive, from which you can read the content after mounting using drive.mount(). Please make sure that the following commands run without errors in Google Colab:
-from google.colab import drive
-drive.mount('/content/drive/', force_remount=True) 
+Before running the tutorial code, you need to select this folder in Google Drive (algonauts_2023_tutorial_data) and choose “Add a shortcut to Drive.” This will create a shortcut (without copying or taking space) of the folder to a desired path in your Google Drive, from which you can read the content after mounting using drive.mount(). Please make sure that the following commands run without errors in Google Colab:  
+from google.colab import drive  
+drive.mount('/content/drive/', force_remount=True)  
 data_dir = '/content/drive/MyDrive/algonauts_2023_tutorial_data'  # @param {type:"string”} # Please edit the `data_dir` variable below with the path on your Drive to the `algonauts_2023_tutorial_data` shortcut folder  
 fmri_dir = os.path.join(data_dir, 'training_split', 'training_fmri’)  
 lh_fmri = np.load(os.path.join(fmri_dir, 'lh_training_fmri.npy'))  
