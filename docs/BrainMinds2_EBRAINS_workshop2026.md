@@ -13,11 +13,11 @@ During this two-day event, EBRAINS will present the operational aspects of sever
 
 ## Day 1: EBRAINS seminars hosted by ATR Brain Information Communication Research Lab in Kyoto, Japan (max. 200 participants)
 
-a. EBRAINS Architecture (Wouter Klijn)
-b. Deployment of EBRAINS knowledge Graph infrastructure (CSCS)
-c. Deployment of Platform services [Pending ATHENA research]
-d. Co-Design in large scale Neuroscience infrastructure (Ekaterina Zossimova)
-e. Virtual Brain Twin & eBRAINS Health (Wouter Klijn)
+a. EBRAINS Architecture (Wouter Klijn)  
+b. Deployment of EBRAINS knowledge Graph infrastructure (CSCS)  
+c. Deployment of Platform services [Pending ATHENA research]  
+d. Co-Design in large scale Neuroscience infrastructure (Ekaterina Zossimova)  
+e. Virtual Brain Twin & eBRAINS Health (Wouter Klijn)  
 
 ## Day 2: Hands-on workshop and Hackathon (Max 40 participants)
 
