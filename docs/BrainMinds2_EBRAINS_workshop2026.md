@@ -11,7 +11,7 @@ title: EBRAINS Brain/MINDS 2.0 Workshop
 
 During this two-day event, EBRAINS will present the operational aspects of several of its core services. The programme will cover the data services supported by the Knowledge Graph;  An overview of tools offered by the infrastructure ; and the deployment of these resources on the underlying infrastructure. The event will conclude with an overview of a scientific workflow that demonstrates how research can be translated into clinical applications showcased by the Virtual Brain Twin (VBT) project.
 
-# Preliminary program:
+# Preliminary program
 
 ## Day 1: EBRAINS seminars hosted by ATR Brain Information Communication Research Lab in Kyoto, Japan (max. 200 participants)
 
