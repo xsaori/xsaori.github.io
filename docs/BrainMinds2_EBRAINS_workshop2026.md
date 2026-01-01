@@ -5,7 +5,7 @@ title: EBRAINS Brain/MINDS 2.0 Workshop
 # EBRAINS Brain/MINDS 2.0 Workshop
 
 **Date:** January 4-5, 2026  
-**Time:** Day 1: 12:00–17:00/ day 1: 10:00–13:00  
+**Time:** Day 1: 12:00–17:00/ Day 2: 10:00–13:00  
 **Location:** Conference room, ATR, Kyoto  [Map](https://www.atr.jp/map_etc/access_e.html)  
 **Organizers:** EBRAINS and Brain/MINDS 2.0
 
