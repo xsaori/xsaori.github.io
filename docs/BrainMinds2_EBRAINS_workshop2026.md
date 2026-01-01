@@ -2,7 +2,7 @@
 layout: default
 title: EBRAINS Brain/MINDS 2.0 Workshop
 ---
-# EBRAINS Brain/MINDS 2.0 Workshop
+# Workshop infomation
 
 **Date:** January 4-5, 2026  
 **Time:** Day 1: 12:00–17:00/ Day 2: 10:00–13:00  
