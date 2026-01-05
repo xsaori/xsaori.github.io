@@ -31,15 +31,15 @@ e. バーチャルブレインツイン＆eBRAINSヘルス（Wouter Klijn）
 
 ## 2日目: 実践ワークショップとハッカソン （最大40名）
 
-1. ハッカソン：Knowledge Graphのインストールと運用（招待制）
+1. Knowledge Graphのインストールと運用（招待制）
 2. 日本語データセットの予備キュレーション（設置予定の概念実証用Knowledge Graphへの追加準備、定員制）
 3. 科学ワークフローの共同設計と形式化。共同設計の専門家指導のもと、大規模神経科学インフラへの統合に向けた重要要件を明確化し、科学ワークフローの形式化を目指す
 
 # 登録
-登録フォームよりお申し込みください：[登録フォーム](https://forms.gle/2TrjAMxU8ixUiGEF7)
+登録フォームよりお申し込みください：[登録フォーム](https://forms.gle/PiKqgwnfYpZ8Cvs4A)
 
 # お問い合わせ
-お問い合わせフォームよりご連絡ください：[お問い合わせ](https://forms.gle/2TrjAMxU8ixUiGEF7)
+お問い合わせフォームよりご連絡ください：[お問い合わせ](https://forms.gle/PiKqgwnfYpZ8Cvs4A)
 
 
 # Workshop infomation
