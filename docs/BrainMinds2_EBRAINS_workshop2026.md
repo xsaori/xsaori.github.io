@@ -6,10 +6,10 @@ title: EBRAINS Brain/MINDS 2.0 Workshop
 
 # ワークショップ概要
 
-**日程:** February 4-5, 2026  
-**時間:** Day 1: 12:00–17:00/ Day 2: 10:00–13:00  
-**場所:** Conference room, ATR, Kyoto  [Map](https://www.atr.jp/map_etc/access_e.html)  
-**企画:** EBRAINS and Brain/MINDS 2.0  
+**日程:** 2026年2月4日（水）、5日（木）  
+**時間:** 1日目 12:00–17:00/ 2日目: 10:00–13:00  
+**場所:** 株式会社国際電気通信基礎技術研究（ATR）地下会議室  [Map](https://www.atr.jp/map_etc/access_e.html)  
+**企画:** EBRAINS, 国際脳  
 
 本ワークショップは、EBRAINS が提供する大規模神経科学研究基盤のアーキテクチャ、展開、ならびに共同設計（Co-Design）の考え方を、講演と実践的な活動を通じて学ぶ2日間のプログラムです。  
 
