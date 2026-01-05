@@ -25,7 +25,7 @@ Day 2 は、最大40名を対象としたハンズオン・ワークショップ
 
 a. EBRAINSアーキテクチャ（Wouter Klijn）  
 b. EBRAINSナレッジグラフ基盤の展開（CSCS）  
-c. プラットフォームサービスの展開［ATHENA研究待ち］  
+c. プラットフォームサービスの展開［Pending ATHENA research］  
 d. 大規模神経科学インフラにおける共同設計（Ekaterina Zossimova）  
 e. バーチャルブレインツイン＆eBRAINSヘルス（Wouter Klijn） 
 
