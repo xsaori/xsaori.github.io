@@ -2,18 +2,56 @@
 layout: default
 title: EBRAINS Brain/MINDS 2.0 Workshop
 ---
+(English information is below)
+
+# ワークショップ概要
+
+**日程:** February 4-5, 2026  
+**時間:** Day 1: 12:00–17:00/ Day 2: 10:00–13:00  
+**場所:** Conference room, ATR, Kyoto  [Map](https://www.atr.jp/map_etc/access_e.html)  
+**企画:** EBRAINS and Brain/MINDS 2.0  
+
+本ワークショップは、EBRAINS が提供する大規模神経科学研究基盤のアーキテクチャ、展開、ならびに共同設計（Co-Design）の考え方を、講演と実践的な活動を通じて学ぶ2日間のプログラムです。  
+
+Day 1 は、最大200名が参加可能な公開セミナーとして実施され、EBRAINS の全体アーキテクチャ、Knowledge Graph インフラストラクチャおよびプラットフォームサービスの展開、⼤規模神経科学インフラにおける共同設計の方法論、さらに Virtual Brain Twin や EBRAINS Health といった応用事例について紹介します。EBRAINS がどのようにデータ統合、計算基盤、科学的ワークフローを支えているのかを体系的に理解することを目的としています。  
+
+Day 2 は、最大40名を対象としたハンズオン・ワークショップおよびハッカソンとして実施されます。EBRAINS Knowledge Graph スタックのインストールおよび運用をテーマとした招待制ハッカソンに加え、日本の神経科学データセットを Proof-of-Concept Knowledge Graph に統合するための事前キュレーション作業、ならびに科学的ワークフローの共同設計と形式化を行います。参加者は Co-Design 専門家の支援のもと、自身の研究ワークフローを形式的に整理し、将来的な大規模神経科学研究基盤への統合に向けた要件を明確化します。  
+
+本プログラムを通じて、研究者、データキュレーター、インフラ開発者の連携を促進し、EBRAINS を活用した国際的な神経科学研究の実践的基盤構築を目指します。  
+
+# プログラム（暫定）
+
+## 1日目: EBRAINSセミナー （最大200名）
+
+a. EBRAINSアーキテクチャ（Wouter Klijn）  
+b. EBRAINSナレッジグラフ基盤の展開（CSCS）  
+c. プラットフォームサービスの展開［ATHENA研究待ち］  
+d. 大規模神経科学インフラにおける共同設計（Ekaterina Zossimova）  
+e. バーチャルブレインツイン＆eBRAINSヘルス（Wouter Klijn） 
+
+## 2日目: 実践ワークショップとハッカソン （最大40名）
+
+1. ハッカソン：ナレッジグラフスタックのインストールと運用（招待制）
+2. 日本語データセットの予備キュレーション（設置予定の概念実証用ナレッジグラフへの追加準備）。要要旨審査（定員制）
+3. 科学ワークフローの共同設計と形式化。共同設計の専門家指導のもと、大規模神経科学インフラへの統合に向けた重要要件を明確化し、科学ワークフローの形式化を目指す。
+
+# 登録
+登録フォームよりお申し込みください：[登録フォーム](https://forms.gle/2TrjAMxU8ixUiGEF7)
+
+# お問い合わせ
+お問い合わせフォームよりご連絡ください：[お問い合わせ](https://forms.gle/2TrjAMxU8ixUiGEF7)
+
+
 # Workshop infomation
 
-**Date:** January 4-5, 2026  
+**Date:** February 4-5, 2026  
 **Time:** Day 1: 12:00–17:00/ Day 2: 10:00–13:00  
 **Location:** Conference room, ATR, Kyoto  [Map](https://www.atr.jp/map_etc/access_e.html)  
-**Organizers:** EBRAINS and Brain/MINDS 2.0
-
-During this two-day event, EBRAINS will present the operational aspects of several of its core services. The programme will cover the data services supported by the Knowledge Graph;  An overview of tools offered by the infrastructure ; and the deployment of these resources on the underlying infrastructure. The event will conclude with an overview of a scientific workflow that demonstrates how research can be translated into clinical applications showcased by the Virtual Brain Twin (VBT) project.
+**Organizers:** EBRAINS and Brain/MINDS 2.0  
 
 # Preliminary program
 
-## Day 1: EBRAINS seminars hosted by ATR Brain Information Communication Research Lab in Kyoto, Japan (max. 200 participants)
+## Day 1: EBRAINS seminars (max. 200 participants)
 
 a. EBRAINS Architecture (Wouter Klijn)  
 b. Deployment of EBRAINS knowledge Graph infrastructure (CSCS)  
