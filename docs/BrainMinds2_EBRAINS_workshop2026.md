@@ -27,7 +27,7 @@ a. EBRAINSアーキテクチャ（Wouter Klijn）
 b. EBRAINS Knowledge Graphの展開（CSCS）  
 c. プラットフォームサービスの展開［Pending ATHENA research］  
 d. 大規模神経科学インフラにおける共同設計（Ekaterina Zossimova）  
-e. バーチャルブレインツイン＆eBRAINSヘルス（Wouter Klijn） 
+e. Virtual Brain Twin & eBRAINS Health（Wouter Klijn） 
 
 ## 2日目: 実践ワークショップとハッカソン （最大40名）
 
